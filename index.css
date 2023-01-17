@@ -133,11 +133,10 @@
 	background-color: #ffaf7a;
 }
 
-#hr-grid-1{
-	background-color: black;
+#h1-grid{
+	font-weight: bold;
 
 }
-
 
 #img-grid{
 	border: 3px ridge; black;
