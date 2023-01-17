@@ -1,0 +1,144 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Tenor Sans', sans-serif;
+}
+
+#body{
+	background-color: #e7debe;
+}
+
+#dp{
+	height: 250px;
+	border: 3px solid darkgrey;
+}
+
+#nav{
+	background-color: #F4EAE2;
+}
+
+.custom-shape-divider-bottom-1673881548 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-bottom-1673881548 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 248px;
+}
+
+.custom-shape-divider-bottom-1673881548 .shape-fill {
+    fill: #E2B996;
+}
+
+
+#sec-2{
+	background-color: #E2B996;
+	padding-top: 5rem;
+}
+
+#sec-3{
+	background-color: #DDA779;
+	padding-top: 5rem;
+}
+
+#sec-4{
+	background-color: #CC9B71;
+	padding-top: 5rem;
+	min-height: 80vh;
+}
+
+#name{
+	font-weight: bold;
+	color: #414040;
+	font-family: 'Rowdies', cursive;
+	letter-spacing: 10px;
+}
+
+#logo-facebook{
+	width: 40px;
+    height: 40px;
+}
+
+#logo-instagram{
+	width: 40px;
+    height: 40px;
+}
+
+#logo-gitlab{
+	width: 40px;
+    height: 40px;
+}
+
+#fullname, #email, #message{
+	border: 2px solid black;
+  	border-radius: 12px;
+  	padding: 5px;
+}
+
+#send{
+	border: 2px solid black;
+}
+
+#contact-me, #about-me, #gallery{
+	font-weight: bold;
+}
+
+#footer{
+	background-color: #F4EAE2;
+	min-height: 15vh;
+}
+
+#hr{
+	max-width: 250px;
+	background-color: white;
+	text-align: center;
+}
+
+#sec-3-pic{
+	background-color:
+}
+
+#grad-pic{
+	height: 600px;
+}
+
+#par-1{
+	background-color: #28231D;
+}
+
+#par-head{
+	width: 400px;
+	color: #ff8c00;
+}
+
+#about-me{
+	color: #ff4500;
+}
+
+#carouselExampleCaptions{
+	padding-left: 10rem;
+	padding-right: 10rem;
+	padding-bottom: 10rem;
+}
+
+#grid{
+	background-color: #ffaf7a;
+}
+
+#hr-grid-1{
+	background-color: black;
+
+}
+
+
+#img-grid{
+	border: 3px ridge; black;
+}
