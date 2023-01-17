@@ -5,6 +5,9 @@
 	font-family: 'Tenor Sans', sans-serif;
 }
 
+html{
+	  scroll-behavior: smooth;
+}
 #body{
 	background-color: #e7debe;
 }
